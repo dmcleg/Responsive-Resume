@@ -1,0 +1,9 @@
+body {
+    margin-left: 10em;
+    margin-right: 10em;
+    margin-top: 4em;
+}
+.jumbo1 {
+    background-color: rgb(35, 176, 223);
+    color: white;
+}
